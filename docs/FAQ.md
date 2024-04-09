@@ -1,5 +1,5 @@
 ## Why?
-I have played VRChat for a long time and I early on I have bumped into people who communicated in ASL to each other. They were all quite friendly but often side-lined from larger groups. I wanted to try to help and my engineer brain chose this path.
+I have played VR for a long time and I early on I have bumped into people who communicated in ASL to each other. They were all quite friendly but often side-lined from larger groups. I wanted to try to help and my engineer brain chose this path.
 
 ## What do you need to use this?
 All you need is a human proportioned avatar (scale can vary quite a bit) with proper fingers, and a VR controller that supports finger tracking.
@@ -82,10 +82,4 @@ Once it is available, please do follow the following rules:
 - The disclaimer that VRC_SLT is not a replacement for knowing sign must be kept absolutely clear
 - The disclaimer that the 1-1 mapping of sign words to written language is not grammatically accurate must also be kept clear
 
-## Can this come to other games? (CVR/Resonite/STEAMVR plugin)?
-Right now VRChat is my focus here, though once the source is released you are welcome to try!
-Where ever you port it, please:
-- Keep your software free and open source
-- Make an effort to keep up to date with this repository, as we try new things we may switch algorithms / methods to transcribe sign that may be more appropriate.
-- Please make clear systems like this is not a replacement for knowing sign!
 
