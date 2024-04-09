@@ -1,6 +1,6 @@
-# VrChat Sign-Language Transcription
+# VR Sign-Language Transcription
 
-VrChat Sign-Language Transcription (also referred to as VRC_SLT) is an in progress system written in UdonSharp and in HLSL that can do one-to-one word transcriptions from sign to text. I "Rami-Pastrami" have been working on this behind the scenes for some time, but this still has some ways to go. My hope is that this can be used as a backend for other map makers to build games that use Sign Language, potentially as an avenue to help people practice and learn individual signs. 
+VR Sign-Language Transcription (also referred to as VRC_SLT) is an in progress system written in Unity using HLSL that can do one-to-one word transcriptions from sign to text. I have been working on this behind the scenes for some time, but this still has some ways to go. My hope is that this can be used as a backend for other map makers to build games that use Sign Language, potentially as an avenue to help people practice and learn individual signs. 
 
 https://github.com/Rami-Pastrami/VRC_SLT_Docs/assets/25966197/be630e0f-6546-48e7-bda9-84e5dc803275
 
