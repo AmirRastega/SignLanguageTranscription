@@ -9,4 +9,4 @@ I hope for this to one day be a useful tool for practicing sign language vocabul
 
 **Once in a releasable state and past testing, VRC_SLT will be made fully open source and free to use! For now Only this documentation shall be visible!**
 
-Feel free to read the FAQ [HERE](https://github.com/Rami-Pastrami/VRC_SLT_Docs/blob/main/docs/FAQ.md)
+Feel free to read the FAQ [HERE](https://github.com/AmirRastega/SignLanguageTranscription/blob/main/docs/FAQ.md)
